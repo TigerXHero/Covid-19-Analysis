@@ -1,7 +1,8 @@
 # Covid-19-Analysis
-Una entidad gubernamental responsable de la gestión de la salud en un Colombia enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia, analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave:
+## GESTIÓN DE LA SALUD EN COLOMBIA, Desafíos que enfrenta ante el Covid-19
+Una entidad gubernamental responsable de la gestión de la salud en Colombia enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión pandémica, analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a preguntas clave.
 
-Análisis de datos de relacionados con el COVID-19 realizado por el equipo Latam (Data Scientist Jr)
+"Análisis de datos de relacionados con el COVID-19 realizado por el equipo Latam (Data Scientist Jr)"
 
 El objetivo principal es extraer insights clave de los datos y proporcionar información valiosa que brinde ayuda a la toma de desiciones al gobierno con respecto a estas situaciones pandémicas presentadas en los últimos tiempos.
 
@@ -25,20 +26,20 @@ Los datos reportados a nivel mundial fueron extraidos de fuentes oficiales, http
 
 ## Insights
 
-0. ¿Cuál es la Población de Colombia en comparación con los países con más casos Covid?
+### 0. ¿Cuál es la Población de Colombia en comparación con los países con más casos Covid?
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/0.png)
 
 Conclusión:
-- Colombia tiene una poblacion de 50.19 millones, está muy parejo con respecto a los últimos 4 del top 10 más importantes a nivel global, pero China con 1421.85 millones e India con 1383.11 milllones son los países con mayor población mundial.
+- Colombia tiene una población de 50.19 millones, está muy parejo con respecto a los últimos 4 del top 10 más importantes a nivel global, pero China con 1421.85 millones e India con 1383.11 milllones son los países con mayor población mundial.
   
-1. ¿Cómo ha evolucionado el Covid-19 en Colombia en comparación con el impacto observado a nivel global?
+### 1. ¿Cómo ha evolucionado el Covid-19 en Colombia en comparación con el impacto observado a nivel global?
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/1.png)
 
 Conclusión:
 - Gráfica de dona: La distribución de casos covid es bastante baja con respecto a los países más importantes con un 0.8% de impácto, con casos reportados de 6.39 Millones
 - Gráfica de líneas: A pesar de experimetnar un aumento significativo en el día 400 desde el inicio de la pandemia, la evolución de casos en Colombia se mantuvo bajo control en comparación con los países líderes.
 
-2. ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en el país a lo largo del tiempo?
+### 2. ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en el país a lo largo del tiempo?
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/2.png)
 
 Conclusión:
@@ -50,13 +51,13 @@ del virus, sin embargo la mayor cantidad de casos diarios
 registrados en Colombia fue en el mes de Enero del
 año 2022 con un total de 212.000 casos activos.
 
-3. ¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?
+### 3. ¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/3.png)
 
 Conclusión:
 Colombia tiene una letalidad de 2.6% pero tuvo un pico de 4.61% en la pandemia en abril y mayo de 2020, lo que lo sitúa en el puesto 38 de los 194 países analizados.Su letalidad es superior a la media mundial, que es de 2.1%. Colombia tiene más de 4 millones de casos confirmados y más de 100 mil muertes, lo que lo convierte en uno de los países más golpeados por la pandemia muy próximos a los países con más letalidad.
 
-4. Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?
+### 4. Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?
 
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/4.png)
 
