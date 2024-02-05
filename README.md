@@ -21,7 +21,7 @@ Se realizó el trabajo en google Colab con los siguientes pasos:
 - Configuración del Ambiente
 - Obtención y tratamiento de datos
 
-El archivo Supermarket_Sales_Analysis.ipynb es el código escrito en colab el cual contiene todas las operaciones de analisis, limpieza de datos e Insights.
+El archivo COVID19_Analytics_Modelo.ipynb es el código escrito en colab el cual contiene todas las operaciones de analisis, limpieza de datos e Insights.
 Los datos reportados a nivel mundial fueron extraidos de fuentes oficiales, https://covid19.who.int y https://population.un.org/
 
 ## Insights
