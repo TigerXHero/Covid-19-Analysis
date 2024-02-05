@@ -28,8 +28,8 @@ Los datos reportados a nivel mundial fueron extraidos de fuentes oficiales, http
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/1.png)
 
 Conclusión:
-Gráfica de dona: La distribución de casos covid es bastante baja con respecto a los países más importantes con un 0.8% de impácto, con casos reportados de 6.39 Millones
-Gráfica de líneas: A pesar de experimetnar un aumento significativo en el día 400 desde el inicio de la pandemia, la evolución de casos en Colombia se mantuvo bajo control en comparación con los países líderes.
+- Gráfica de dona: La distribución de casos covid es bastante baja con respecto a los países más importantes con un 0.8% de impácto, con casos reportados de 6.39 Millones
+- Gráfica de líneas: A pesar de experimetnar un aumento significativo en el día 400 desde el inicio de la pandemia, la evolución de casos en Colombia se mantuvo bajo control en comparación con los países líderes.
 
 2. ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en el país a lo largo del tiempo?
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/2.png)
@@ -47,7 +47,7 @@ año 2022 con un total de 212.000 casos activos.
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/3.png)
 
 Conclusión:
-Colombia tiene una letalidad de 2.6%, lo que lo sitúa en el puesto 38 de los 194 países analizados.Su letalidad es superior a la media mundial, que es de 2.1%. Colombia tiene más de 4 millones de casos confirmados y más de 100 mil muertes, lo que lo convierte en uno de los países más golpeados por la pandemia en América Latina.
+Colombia tiene una letalidad de 2.6% pero tuvo un pico de 4.61% en la pandemia en abril y mayo de 2020, lo que lo sitúa en el puesto 38 de los 194 países analizados.Su letalidad es superior a la media mundial, que es de 2.1%. Colombia tiene más de 4 millones de casos confirmados y más de 100 mil muertes, lo que lo convierte en uno de los países más golpeados por la pandemia muy próximos a los países con más letalidad.
 
 4. Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?
 
@@ -61,15 +61,10 @@ Según el analisis de importancia, la densidad poblacional destaca como
   la poblacion femenina son relevantes
   en la incidencia de la letalidad del Covid-19.
 
-5. ¿?
-![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/5.png)
-
-Conclusión:
-.
 
 ## Autores
 
 - [@Brusly]()
 - [@Isaias](isaiasxhero)
-- [@Jhordan]()
 - [@Jorge]()
+- [@Jhordan]()
