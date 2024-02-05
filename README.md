@@ -24,6 +24,13 @@ El archivo Supermarket_Sales_Analysis.ipynb es el código escrito en colab el cu
 Los datos reportados a nivel mundial fueron extraidos de fuentes oficiales, https://covid19.who.int y https://population.un.org/
 
 ## Insights
+
+0. ¿Cuál es la Población de Colombia en comparación con los países con más casos Covid?
+![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/0.png)
+
+Conclusión:
+- Colombia tiene una poblacion de 50.19 millones, está muy parejo con respecto a los últimos 4 del top 10 más importantes a nivel global, pero Chinacon 1421.85 millones e India con 1383.11 milllones son los países con mayor población mundial.
+  
 1. ¿Cómo ha evolucionado el Covid-19 en Colombia en comparación con el impacto observado a nivel global?
 ![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/1.png)
 
